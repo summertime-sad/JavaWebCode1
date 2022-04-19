@@ -20,6 +20,7 @@ public class test extends chouxiang {
         System.out.println("hello git");
         System.out.println("hello git again");
         System.out.println("hello hot-fix");
+        System.out.println("hot-fix 冲突合并");
     }
 
 
