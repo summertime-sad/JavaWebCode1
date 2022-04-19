@@ -23,6 +23,7 @@ public class test extends chouxiang {
         System.out.println("master 冲突合并");
         System.out.println("hot-fix 冲突合并");
         System.out.println("推送到远程库");
+        System.out.println("远程库修改");
     }
 
 
