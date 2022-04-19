@@ -15,4 +15,8 @@ public class test extends chouxiang {
     public void init() {
         System.out.println("巧妙地设计模式");
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
